@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588702450 source:c:\users\julio\documents\c programming\cpsc 2120\chapter sample codes\chapter 5\fractions\fraction.cpp
+	<sstream>
+	"fraction.h"
+
+1588650684 c:\users\julio\documents\c programming\cpsc 2120\chapter sample codes\chapter 5\fractions\fraction.h
+	<iostream>
+
+1588701993 source:c:\users\julio\documents\c programming\cpsc 2120\chapter sample codes\chapter 5\fractions\main.cpp
+	<iostream>
+	"fraction.h"
+

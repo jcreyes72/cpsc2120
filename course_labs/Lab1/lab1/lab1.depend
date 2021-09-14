@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599333510 source:c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab1\lab1\main.cpp
+	<iostream>
+	"ListStack.h"
+	"ListQueue.h"
+
+1599325747 c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab1\lab1\node.h
+	<new>
+
+1599438894 c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab1\lab1\list.h
+	<iostream>
+	<string>
+	"Node.h"
+
+1599354776 c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab1\lab1\liststack.h
+	"List.h"
+
+1599354516 c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab1\lab1\listqueue.h
+	"List.h"
+	<queue>
+

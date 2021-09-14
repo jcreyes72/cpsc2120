@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600048350 source:c:\users\julio\documents\c programming\cpsc 2120\mimir\swapping nodes in a doubly linked list\nodeswap\main.cpp
+	<iostream>
+	"doublyLinkedSwap.h"
+
+1600106116 c:\users\julio\documents\c programming\cpsc 2120\mimir\swapping nodes in a doubly linked list\nodeswap\doublylinkedswap.h
+	<iostream>
+
+1600045665 source:c:\users\julio\documents\c programming\cpsc 2120\mimir\swapping nodes in a doubly linked list\nodeswap\doublylinkedswap.cpp
+	"doublyLinkedSwap.h"
+

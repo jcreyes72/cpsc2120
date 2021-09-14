@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600654957 source:c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab3\lab 3 - finding groups using recursion\main.cpp
+	<iostream>
+	<fstream>
+	<algorithm>
+	<vector>
+

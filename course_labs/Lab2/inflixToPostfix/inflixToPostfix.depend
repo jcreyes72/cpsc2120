@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599770125 source:c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab2\inflixtopostfix\infixtopostfix.cpp
+	<string>
+	<stack>
+	<iostream>
+

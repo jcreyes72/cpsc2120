@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1588301165 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 1 - arrays and classes\number_count\testnumbercount.cpp
+	<iostream>
+	"NumberCount.h"
+
+1588301191 c:\users\julio\documents\c programming\cpsc 2120\labs\lab 1 - arrays and classes\number_count\numbercount.h
+	<iostream>
+	<stdlib.h>
+	<string>
+

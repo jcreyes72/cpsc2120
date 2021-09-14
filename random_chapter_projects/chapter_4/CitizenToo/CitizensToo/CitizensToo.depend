@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1588635959 source:c:\users\julio\documents\c programming\cpsc 2120\chapter sample codes\chapter 4\citizentoo\citizenstoo\main.cpp
+	<iostream>
+	"citizenstoo.h"
+
+1588635939 c:\users\julio\documents\c programming\cpsc 2120\chapter sample codes\chapter 4\citizentoo\citizenstoo\citizenstoo.h
+	<iostream>
+	<string>
+

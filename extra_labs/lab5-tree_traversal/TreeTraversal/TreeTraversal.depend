@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 5 -tree traversal\treetraversal\main.cpp
+	<iostream>
+
+1597435116 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 5 -tree traversal\treetraversal\treenode.cpp
+	"TreeNode.h"
+
+1597424992 c:\users\julio\documents\c programming\cpsc 2120\labs\lab 5 -tree traversal\treetraversal\treenode.h
+	<iostream>
+	<stack>
+

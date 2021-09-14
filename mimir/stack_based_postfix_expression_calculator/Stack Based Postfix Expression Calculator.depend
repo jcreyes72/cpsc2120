@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1600804745 source:c:\users\julio\documents\c programming\cpsc 2120\mimir\stack based postfix expression calculator\calculatepostfixexpression.cpp
+	<string>
+	<stack>
+	<cstring>
+	<iostream>
+
+1600805043 source:c:\users\julio\documents\c programming\cpsc 2120\mimir\stack based postfix expression calculator\main.cpp
+	<iostream>
+
+1600798904 c:\users\julio\documents\c programming\cpsc 2120\mimir\stack based postfix expression calculator\calculatepostfixexpression.cpp
+	<string>
+	<stack>
+	<cstring>
+

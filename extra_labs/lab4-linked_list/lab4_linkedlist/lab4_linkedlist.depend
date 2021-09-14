@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1595545081 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 4 - linked list\lab4_linkedlist\main.cpp
+	<iostream>
+	"blister.h"
+
+1595542049 c:\users\julio\documents\c programming\cpsc 2120\labs\lab 4 - linked list\lab4_linkedlist\blister.h
+	<iostream>
+	<string>
+	<cstring>
+
+1595545200 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 4 - linked list\lab4_linkedlist\blister.cpp
+	"blister.h"
+

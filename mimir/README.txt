@@ -1,0 +1,1 @@
+These are some more projects that were done using the coding practice website, Mimir

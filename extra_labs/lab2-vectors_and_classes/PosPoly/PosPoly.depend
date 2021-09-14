@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590027006 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 2 - vectors and classes\pospoly\pospoly.cpp
+	"pospoly.h"
+
+1589933751 source:c:\users\julio\documents\c programming\cpsc 2120\labs\lab 2 - vectors and classes\pospoly\main.cpp
+	<iostream>
+	"pospoly.h"
+
+1589933129 c:\users\julio\documents\c programming\cpsc 2120\labs\lab 2 - vectors and classes\pospoly\pospoly.h
+	<iostream>
+	<stdlib.h>
+	<vector>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1602619804 source:c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab5\lab5\main.cpp
+	"stringset.h"
+	<iostream>
+	<fstream>
+
+1602616714 c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab5\lab5\stringset.h
+	<string>
+	<vector>
+	<list>
+
+1602616714 source:c:\users\julio\documents\c programming\cpsc 2120\actual course labs\lab5\lab5\stringset.cpp
+	<iostream>
+	"stringset.h"
+
